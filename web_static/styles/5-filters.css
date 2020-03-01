@@ -10,13 +10,13 @@
 }
 
 .filters{
-    display: flex;
+    /* display: flex; */
     background-color: #FFF;
     height: 70px;
     width: 100%;
     border: 1px solid #DDDDDD;
     border-radius: 4px;
-    justify-content: flex-end;
+    position: relative;
 }
 
 button{
@@ -30,6 +30,7 @@ button{
     margin-right: 30px;
     /*margin-top: 10px;*/
     align-self: center;
+    position: absolute;
 }
 
 button:hover{
@@ -39,22 +40,25 @@ button:hover{
 .locations{
     height: 100%;
     width: 25%;
+    display: inline-block;
     border-right: #DDDDDD 1px solid;
 }
 
 .amenities{
     height: 100%;
     width: 25%;
+    display: inline-block;
 }
 
 h3{
     font-weight: 600;
     margin-left: 30px;
     margin-bottom: 0;
-    margin-top: 0;
+    margin-top: 18px;
 }
 
 h4{
     font-weight: 400;
     font-size: 14px;
+    margin-left: 20px;
 }
