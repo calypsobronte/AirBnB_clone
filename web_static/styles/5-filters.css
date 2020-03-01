@@ -1,12 +1,12 @@
 .container{
-    display: flex;
+    /* display: flex; */
     max-width: 1000px;
     margin: 30px auto 30px auto;
     /*margin-top: 30px auto;
     margin-bottom: 30px auto;*/
     /* max-height: 100%; */
-    padding: 30px;
-    justify-content: center;
+    /* padding: 30px; */
+    /* justify-content: center; */
 }
 
 .filters{
@@ -17,6 +17,8 @@
     border: 1px solid #DDDDDD;
     border-radius: 4px;
     justify-content: flex-end;
+    position: relative;
+    resize: vertical;
 }
 
 button{
