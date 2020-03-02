@@ -57,8 +57,17 @@ EOF  all  count  create  destroy  help  quit  show  update
 
 (hbnb) all
 []
-(hbnb)    
+(hbnb)
 ```
+## AirBnB clone - Web static
+
+Enter the Airbnb project clone in static web mode in your folder called [`web_static`].
+
+If you want to see it already running you can enter the following url View from the web https://calypsobronte.me/AirBnB_clone/web_static/
+
+You'll see something like this:
+
+![8-index][]
 
 ## Authors and Contributors
 - Julian Castañeda
@@ -80,3 +89,5 @@ EOF  all  count  create  destroy  help  quit  show  update
 [@calypsobronte]: https://github.com/calypsobronte
 [MIT]: https://github.com/calypsobronte/AirBnB_clone/blob/master/LICENSE
 [console-hbnb]: https://live.staticflickr.com/65535/49545345338_54016389e9_c.jpg
+[`web_static`]: https://github.com/calypsobronte/AirBnB_clone/tree/master/web_static
+[8-index]: https://pbs.twimg.com/media/ESFSD-7WoAAlBql?format=jpg&name=large
