@@ -19,7 +19,7 @@ Before starting, please fork or clone the repository [`AirBnB_clone`] from your 
 
 Entering the different tasks
 
-- 1-index: https://calypsobronte.me/AirBnB_clone/web_static/8-index.html
+- 1-index: https://calypsobronte.me/AirBnB_clone/web_static/1-index.html
 
 - 2-index: https://calypsobronte.me/AirBnB_clone/web_static/2-index.html
 
